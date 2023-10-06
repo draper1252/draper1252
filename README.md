@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @draper1252!
+- 👀 I’m interested in baseball, video games, and craft beer!
+- 🌱 I’m currently learning C++, networks, sorting algorithms!
